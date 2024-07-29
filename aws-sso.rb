@@ -1,4 +1,4 @@
-class AwsSso < Formula
+class Assumer < Formula
     desc "Simple terminal UI for AWS SSO"
     homepage "https://github.com/jrivers-iclass/rust-aws-sso-tui"
     url "https://github.com/jrivers-iclass/rust-aws-sso-tui.git", tag: "1.0.2"
@@ -12,7 +12,7 @@ class AwsSso < Formula
     end
   
     def post_install
-      ohai "Binary file has been installed as: rust-sso"
+      ohai "Binary file has been installed as: assumer"
     end
   
     test do
