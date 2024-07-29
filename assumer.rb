@@ -1,7 +1,7 @@
 class Assumer < Formula
     desc "Simple terminal UI for AWS SSO"
     homepage "https://github.com/jrivers-iclass/rust-aws-sso-tui"
-    url "https://github.com/jrivers-iclass/rust-aws-sso-tui.git", tag: "1.0.2"
+    url "https://github.com/jrivers-iclass/rust-aws-sso-tui.git", tag: "1.0.3"
     license "MIT"
     head "https://github.com/jrivers-iclass/rust-aws-sso-tui.git", branch: "main"
   
